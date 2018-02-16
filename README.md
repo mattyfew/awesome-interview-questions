@@ -9,6 +9,8 @@
 - What happens with `this` in arrow functions?
 - What is the DOM? How do we interact with it?
 - What is truthy vs. falsey?
+- What is functional programming? What's so special about it?
+- Explain OOP.
 
 ### React
 
@@ -28,3 +30,12 @@
 ### HTML
 
 - What are your favorite HTML elements and why?
+
+### SQL / Databases
+
+- What is the difference between relational dbs and non-relational dbs?
+
+### General
+
+- Why is immutability important? [[Answer](https://stackoverflow.com/a/34385684/5231151)]
+- Why is testing important? Why do we write tests?
